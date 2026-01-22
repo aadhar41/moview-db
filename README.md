@@ -15,11 +15,10 @@ A modern, responsive React application that allows users to search and explore m
 
 ## Screenshots
 
-````carousel
-![Home Page - Search and browse movies in a responsive grid layout](public/screens/home-page.png)
-<!-- slide -->
-![Movie Details Page - View comprehensive information about selected movies](public/screens/details-page.png)
-````
+| Screen | Description |
+| :--- | :--- |
+| ![Home Page](public/screens/home-page.png) | **Home Page** - Search and browse movies in a responsive grid layout |
+| ![Movie Details Page](public/screens/details-page.png) | **Movie Details Page** - View comprehensive information about selected movies |
 
 ## Technologies Used
 
